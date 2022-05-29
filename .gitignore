@@ -1,3 +1,8 @@
+mangas/*
+pdfs/
+*mangas2/*
+pdfs2/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
